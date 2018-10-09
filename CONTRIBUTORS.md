@@ -1,2 +1,2 @@
 -  [Jeongwhan Choi](https://github.com/jeongwhanchoi)
--  [Aaron Sato] (https://github.com/2asato)
+-  [Aaron Sato](https://github.com/2asato)
