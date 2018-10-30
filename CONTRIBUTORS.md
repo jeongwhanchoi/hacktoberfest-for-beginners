@@ -1,3 +1,4 @@
 -  [Jeongwhan Choi](https://github.com/jeongwhanchoi)
 -  [Aaron Sato](https://github.com/2asato)
 -  [Aman Jain](https://github.com/amnjain)
+-  [Jeremias Gomes](https://github.com/j3r3mias)
