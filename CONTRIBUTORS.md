@@ -3,3 +3,4 @@
 -  [Aman Jain](https://github.com/amnjain)
 -  [Jeremias Gomes](https://github.com/j3r3mias)
 -  [VINAYAK M R](https://github.com/vmr1532)
+-  [Lina Dias](http://github.com/linasdias)

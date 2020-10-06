@@ -1,0 +1,14 @@
+---
+title: "Hello World"
+author: "Lina Dias"
+date: "06/10/2020"
+output: html_document
+---
+
+```{r}
+#LANGUAGE: r
+#AUTHOR: Lina Dias
+# GITHUB: https://github.com/linasdias
+
+print("Hello world!")
+```
